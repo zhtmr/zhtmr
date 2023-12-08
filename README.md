@@ -3,6 +3,9 @@
 
 
 <a href="https://opgc.me/#/users/zhtmr" target="_blank"><img src="https://api.opgc.me/githubs/users/zhtmr/tag/?theme=basic" /></a>
+
+![zhtmr's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhtmr&show_icons=true&theme=radical)  
+
 <!-- 
 ### 💪 Skills 
 
