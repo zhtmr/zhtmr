@@ -12,7 +12,7 @@
 
 
 
-<div style="display:flex">
+<div style="display: flex">
 
 <a href="https://opgc.me/#/users/zhtmr" target="_blank"><img align="right" src="https://api.opgc.me/githubs/users/zhtmr/tag/?theme=basic" /></a>
 
