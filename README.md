@@ -11,14 +11,11 @@
 
 
 
-
-<a href="https://opgc.me/#/users/zhtmr" target="_blank"><img align="right" src="https://api.opgc.me/githubs/users/zhtmr/tag/?theme=basic" /></a>
-
-<div style="display:flex">
-  
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=zhtmr&show_icons=true&theme=radical"/>
-
+<div>
+  <a href="https://opgc.me/#/users/zhtmr" target="_blank"><img align="top" src="https://api.opgc.me/githubs/users/zhtmr/tag/?theme=basic" /></a>
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=zhtmr&show_icons=true&theme=radical"/>
 </div>
+
 
 
 
@@ -38,3 +35,4 @@
 <img src="https://img.shields.io/badge/spring-#6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 
 -->
+
