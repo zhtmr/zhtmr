@@ -12,15 +12,11 @@
 
 
 
-
-
-
-
 <a href="https://opgc.me/#/users/zhtmr" target="_blank"><img align="right" src="https://api.opgc.me/githubs/users/zhtmr/tag/?theme=basic" /></a>
 
-<div style="display: flex">
+<div style="display:flex">
   
-<img src="https://github-readme-stats.vercel.app/api?username=zhtmr&show_icons=true&theme=radical"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=zhtmr&show_icons=true&theme=radical"/>
 
 </div>
 
