@@ -7,14 +7,14 @@
 [![Titory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://zhtmr.github.io/)
 -->
 
+<div style="display: flex">
 <div>
-<div style="display: inline-block">
 <a href="https://opgc.me/#/users/zhtmr" target="_blank"><img src="https://api.opgc.me/githubs/users/zhtmr/tag/?theme=basic" /></a>
 </div>
 
-<div style="display: inline-block">
-
-![zhtmr's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhtmr&show_icons=true&theme=radical)  
+<div >
+  
+  ![zhtmr's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhtmr&show_icons=true&theme=radical)  
 </div>
 
 </div>
