@@ -11,11 +11,10 @@
 </div>
 <table>
   <tr>
-    <td valign="top"><a href="https://opgc.me/#/users/zhtmr" target="_blank"><img align="top" src="https://api.opgc.me/githubs/users/zhtmr/tag/?theme=basic" /></a></td>
+    <td valign="top"><a href="https://opgc.me/#/users/zhtmr" target="_blank"><img align="top" src="https://api.opgc.me/githubs/users/zhtmr/tag/?theme=prism" /></a></td>
     <td valign="top"><img align="top" src="https://github-readme-stats.vercel.app/api?username=zhtmr&show_icons=true&theme=radical"/></td>
   </tr>
 </table>
-
 
 
 
