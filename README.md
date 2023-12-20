@@ -14,6 +14,11 @@
     <td valign="top"><a href="https://opgc.me/#/users/zhtmr" target="_blank"><img align="top" src="https://api.opgc.me/githubs/users/zhtmr/tag/?theme=prism" /></a></td>
     <td valign="top"><img align="top" src="https://github-readme-stats.vercel.app/api?username=zhtmr&show_icons=true&theme=radical"/></td>
   </tr>
+
+  <tr>
+    <td valign="top"><a href="https://solved.ac/zhtmr"><img align="top" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zhtmr&theme=dark"/></a></td>
+    <td valign="top"><img align="top" src="http://mazandi.herokuapp.com/api?handle=zhtmr&theme=warm"/></td>
+  </tr>
 </table>
 
 
