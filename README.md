@@ -13,12 +13,12 @@
 <table>
   <tr>
     <td valign="top"><a href="https://opgc.me/#/users/zhtmr" target="_blank"><img align="top" src="https://api.opgc.me/githubs/users/zhtmr/tag/?theme=prism" /></a></td>
-    <td valign="top"><img align="top" src="https://github-readme-stats.vercel.app/api?username=zhtmr&show_icons=true&theme=radical"/></td>
+    <td valign="top"><a href="https://github.com/zhtmr"><img align="top" src="https://github-readme-stats.vercel.app/api?username=zhtmr&show_icons=true&theme=radical"/></a></td>
   </tr>
 
   <tr>
     <td valign="top"><a href="https://solved.ac/zhtmr"><img align="top" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zhtmr&theme=dark"/></a></td>
-    <td valign="top"><img align="top" src="http://mazandi.herokuapp.com/api?handle=zhtmr&theme=warm"/></td>
+    <td valign="top"><a href="https://github.com/zhtmr"><img align="top" src="http://mazandi.herokuapp.com/api?handle=zhtmr&theme=warm"/></a></td>
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/zhtmr"><img src="https://github-readme-streak-stats.herokuapp.com?user=zhtmr&theme=dark&hide_border=true&border_radius=10.4&locale=ko&currStreakNum=3BEB45" alt="GitHub Streak" /></a></td>
