@@ -13,7 +13,7 @@
 </div>
 <table>
   <tr>
-    <td valign="top"><a href="https://opgc.me/#/users/zhtmr" target="_blank"><img align="top" src="https://api.opgc.me/githubs/users/zhtmr/tag/?theme=prism" /></a></td>
+    <td valign="top"><a href="https://opgc.me/#/users/zhtmr" ><img align="top" src="https://api.opgc.me/githubs/users/zhtmr/tag/?theme=prism" /></a></td>
     <td valign="top"><a href="https://github.com/zhtmr"><img align="top" src="https://github-readme-stats.vercel.app/api?username=zhtmr&show_icons=true&theme=radical"/></a></td>
   </tr>
 
