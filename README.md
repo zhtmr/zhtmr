@@ -22,7 +22,9 @@
     <td valign="top"><a href="https://solved.ac/zhtmr"><img align="top" src="http://mazandi.herokuapp.com/api?handle=zhtmr&theme=warm"/></a></td>
   </tr>
   <tr>
-    <td valign="top"><a href="https://github.com/zhtmr"><img src="https://github-readme-streak-stats.herokuapp.com?user=zhtmr&theme=dark&hide_border=true&border_radius=10.4&locale=ko&currStreakNum=3BEB45" alt="GitHub Streak" /></a></td>
+    <td valign="top"><a href="https://github.com/zhtmr"><img src="https://github-readme-streak-stats.herokuapp.com?user=zhtmr&theme=dark&hide_border=true&border_radius=10.4&locale=ko&currStreakNum=3BEB45" alt="GitHub Streak" /></a>
+    <td valign="top"><a href="https://www.codetree.ai/profiles/zhtmr"><img align="top" src="https://banner.codetree.ai/v1/banner/zhtmr"/></a></td>
+  </tr>
   </tr>
 </table>
 
