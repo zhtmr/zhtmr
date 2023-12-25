@@ -5,7 +5,7 @@
    <a href="https://solved.ac/zhtmr"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=zhtmr&theme=dark"/></a>
 [![Blog](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://zhtmr.github.io/)
 
-  ### 🏆 Github Profile Trophy
+  
   [![trophy](https://github-profile-trophy.vercel.app/?username=zhtmr&no-frame=true&theme=onedark)](https://github.com/zhtmr)
 
   ---
