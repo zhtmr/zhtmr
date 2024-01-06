@@ -41,7 +41,7 @@
   <tr valign="center"><a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=zhtmr&theme=github-compact" /></a></tr>
   
   <tr>
-    <td valign="center"><a href="https://opgc.me/#/users/zhtmr" ><img align="top" src="https://api.opgc.me/githubs/users/zhtmr/tag/?theme=prism" /></a></td>
+    <td valign="center"><a href="https://github.com/zhtmr"><img src="https://github-readme-streak-stats.herokuapp.com?user=zhtmr&theme=dark&hide_border=true&border_radius=10.4&locale=ko&currStreakNum=3BEB45" alt="GitHub Streak" />
     <td valign="center"><a href="https://github.com/zhtmr"><img align="top" src="https://github-readme-stats.vercel.app/api?username=zhtmr&show_icons=true&theme=radical"/></a></td>
   </tr>
 
@@ -52,7 +52,8 @@
   </tr>
   
   <tr>
-    <td valign="center"><a href="https://github.com/zhtmr"><img src="https://github-readme-streak-stats.herokuapp.com?user=zhtmr&theme=dark&hide_border=true&border_radius=10.4&locale=ko&currStreakNum=3BEB45" alt="GitHub Streak" /></a></td>
+    <!-- <td valign="center"><a href="https://opgc.me/#/users/zhtmr" ><img align="top" src="https://api.opgc.me/githubs/users/zhtmr/tag/?theme=prism" /></a></td> -->
+    </a></td>
     
   </tr>
 </table>
