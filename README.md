@@ -50,12 +50,13 @@
     <td valign="center"><a href="https://solved.ac/zhtmr"><img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zhtmr&theme=dark"/></a></td>
     <td valign="center"><a href="https://solved.ac/zhtmr"><img align="center" src="http://mazandi.herokuapp.com/api?handle=zhtmr&theme=warm"/></a></td>
   </tr>
-  
+
+  <!--
   <tr>
-    <!-- <td valign="center"><a href="https://opgc.me/#/users/zhtmr" ><img align="top" src="https://api.opgc.me/githubs/users/zhtmr/tag/?theme=prism" /></a></td> -->
+    <td valign="center"><a href="https://opgc.me/#/users/zhtmr" ><img align="top" src="https://api.opgc.me/githubs/users/zhtmr/tag/?theme=prism" /></a></td> 
     </a></td>
-    
   </tr>
+  -->
 </table>
 
 
