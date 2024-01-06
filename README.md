@@ -9,7 +9,12 @@
 
 ### Blog Posts  [![Blog post workflow](https://github.com/zhtmr/zhtmr/actions/workflows/blogposts.yml/badge.svg?branch=master)](https://github.com/zhtmr/zhtmr/actions/workflows/blogposts.yml)
 <!-- BLOGPOSTS:START -->
-
+- [[Java] BufferedInputStream / BufferedOutputStream](https://zhtmr.github.io/java/buffered-stream/)
+- [[Java] FileInputStream / FileOutputStream](https://zhtmr.github.io/java/file-io-stream/)
+- [[디자인패턴] 이터레이터 패턴(Iterator Pattern)](https://zhtmr.github.io/design%20pattern/iterator-pattern/)
+- [[Java] 메뉴 항목을 Stack 으로 관리하기 (feat.팩토리 메소드)](https://zhtmr.github.io/java/stack/)
+- [[Java] equals() 와 hashCode() 를 재정의하는 이유](https://zhtmr.github.io/java/equals-and-hashcode/)
+- [[Java] 기존 인터페이스에 새로운 규칙을 추가해보자!(추상클래스, 인터페이스 상속)](https://zhtmr.github.io/java/interface-inheritance/)
 <!-- BLOGPOSTS:END -->
  
 ### SKILLS
