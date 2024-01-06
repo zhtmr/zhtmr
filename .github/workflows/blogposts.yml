@@ -2,7 +2,7 @@ name: Blog post workflow
 on:
   schedule:
     # Runs every day at
-    - cron: '*/5 * * * *'
+    - cron: '0 9 * * *'
 
 jobs:
   pull_blog_rss:
