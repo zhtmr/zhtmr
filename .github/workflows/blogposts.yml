@@ -13,7 +13,7 @@ jobs:
       - name: Get RSS Feed
         uses: kohrongying/readme-the-rss@master
         with:
-          feed_url: https://https://zhtmr.github.io/feed.xml
+          feed_url: https://zhtmr.github.io/feed.xml
           count: 6 # default 5
       - name: Commit file changes
         run: |
