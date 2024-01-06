@@ -2,14 +2,14 @@ name: Blog post workflow
 on:
   schedule:
     # Runs every day at
-    - cron: '0 21 * * *'
+    - cron: '*/5 * * * *'
 
 jobs:
   pull_blog_rss:
     name: Update with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - name: Get RSS Feed
         uses: kohrongying/readme-the-rss@master
         with:
