@@ -6,7 +6,7 @@
 [![Blog](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://zhtmr.github.io/)
 
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=zhtmr&no-frame=true&theme=onedark)](https://github.com/zhtmr)
+ 
 
   ---
 
@@ -14,6 +14,7 @@
 
 
 <table>
+  <!-- GitHub activity -->
   <tr valign="center"><a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=zhtmr&theme=github-compact" /></a></tr>
   
   <tr>
