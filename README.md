@@ -7,7 +7,7 @@
 
 </div>
 
-### Blog Posts
+### Blog Posts  [![Blog post workflow](https://github.com/zhtmr/zhtmr/actions/workflows/blogposts.yml/badge.svg?branch=master)](https://github.com/zhtmr/zhtmr/actions/workflows/blogposts.yml)
 <!-- BLOGPOSTS:START -->
 
 <!-- BLOGPOSTS:END -->
