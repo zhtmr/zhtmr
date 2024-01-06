@@ -1,7 +1,7 @@
 name: Blog post workflow
 on:
   schedule:
-    # Runs every day at 3pm UTC (11pm SG)
+    # Runs every day at
     - cron: '0 21 * * *'
 
 jobs:
