@@ -5,12 +5,28 @@
    <a href="https://solved.ac/zhtmr"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=zhtmr&theme=dark"/></a>
 [![Blog](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://zhtmr.github.io/)
 
-  
- 
+</div>
 
+### Blog Posts
+<!-- BLOGPOSTS:START -->
+
+<!-- BLOGPOSTS:END -->
+ 
+### SKILLS
+
+- Programming Language
+  - Java, Javascript
+- Back-End
+  - Spring Framwork, Mybatis, JPA
+- Database
+  - MySQL(MariaDB)
+- DevOps
+  - Docker, AWS, Github Actions
+- Version Control
+  - Git, SVN
   ---
 
-</div>
+
 
 
 <table>
