@@ -1,7 +1,7 @@
 
 <div align="center">
   <!-- quotes-->
-  <a href="https://github.com/zhtmr/github-readme-quotes">
+  <a href="https://github.com/zhtmr/github-readme-quotes">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" />
   </a>
 
