@@ -49,7 +49,7 @@
   <tr valign="center"><a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=zhtmr&theme=github-compact" /></a></tr>
   
   <tr>
-    <td valign="center"><a href="https://github.com/zhtmr"><img src="https://github-readme-streak-stats-rho-ruddy.vercel.app?user=zhtmr&theme=bear&hide_border=true&locale=ko" alt="GitHub Streak" /></a></td>
+    <td valign="center"><a href="https://github.com/zhtmr"><img align="top" src="https://github-readme-streak-stats-rho-ruddy.vercel.app?user=zhtmr&theme=bear&hide_border=true&locale=ko" alt="GitHub Streak" /></a></td>
     <td valign="center"><a href="https://github.com/zhtmr"><img align="top" src="https://github-readme-stats.vercel.app/api?username=zhtmr&show_icons=true&theme=radical"/></a></td>
   </tr>
 
