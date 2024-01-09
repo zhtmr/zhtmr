@@ -2,9 +2,11 @@
   <!-- quotes-->
   <a href="https://github.com/zhtmr"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" /></a>
 
-  
-  ### Hi there 👋
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzhtmr&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> 
+  <!-- Hi there -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%F0%9F%91%8B;Hi+there+%F0%9F%91%8B" alt="Typing SVG" /></a>
+
+  <!-- hit, boj, blog badge -->
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzhtmr&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
    <a href="https://solved.ac/zhtmr"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=zhtmr&theme=dark"/></a>
   <a href="https://zhtmr.github.io/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white" alt="Blog" />
