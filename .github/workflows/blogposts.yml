@@ -23,7 +23,7 @@ jobs:
             git config --global user.name 'zhtmr'
             git config --global user.email '48509269+zhtmr@users.noreply.github.com'
             git add .
-            git diff --quiet --cached || git commit -m "[auto] $(date -u +"%Y-%m-%d") Blog Posting List Update"    
+            git diff --quiet --cached || git commit -m "[auto] $(date -u +"%Y-%m-%d-%r") Blog Posting List Update"    
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
