@@ -6,6 +6,7 @@ on:
   schedule:
     # Runs every day at
     - cron: '0 1 * * *'
+  workflow_dispatch:
 
 jobs:
   pull_blog_rss:
