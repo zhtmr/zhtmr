@@ -33,11 +33,11 @@
 ### Blog Posts  [![Blog post workflow](https://github.com/zhtmr/zhtmr/actions/workflows/blogposts.yml/badge.svg?branch=master)](https://github.com/zhtmr/zhtmr/actions/workflows/blogposts.yml)
 <!-- BLOGPOSTS:START -->
 - [[Java] 어노테이션(annotation)을 활용해 세션 정보 가져오기](https://zhtmr.github.io/java/annotation/)
+- [[Java] 람다식을 사용하는 이유(lazy evaluation)](https://zhtmr.github.io/java/lambda/)
 - [[Java] BufferedInputStream / BufferedOutputStream](https://zhtmr.github.io/java/buffered-stream/)
 - [[Java] FileInputStream / FileOutputStream](https://zhtmr.github.io/java/file-io-stream/)
 - [[디자인패턴] 이터레이터 패턴(Iterator Pattern)](https://zhtmr.github.io/design%20pattern/iterator-pattern/)
 - [[Java] 메뉴 항목을 Stack 으로 관리하기 (feat.팩토리 메소드)](https://zhtmr.github.io/java/stack/)
-- [[Java] equals() 와 hashCode() 를 재정의하는 이유](https://zhtmr.github.io/java/equals-and-hashcode/)
 <!-- BLOGPOSTS:END -->
   ---
 
