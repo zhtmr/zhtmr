@@ -33,11 +33,11 @@
 ### Blog Posts  [![Blog post workflow](https://github.com/zhtmr/zhtmr/actions/workflows/blogposts.yml/badge.svg?branch=master)](https://github.com/zhtmr/zhtmr/actions/workflows/blogposts.yml)
 <!-- BLOGPOSTS:START -->
 - [[Github Action] github CLI 로 github action 트리거 하기](https://zhtmr.github.io/github/github-action-cli/)
+- [[Java] reflection 을 이용한 proxy 객체 활용(프록시 패턴)](https://zhtmr.github.io/java/proxy-pattern/)
 - [[Java] 어노테이션(annotation)을 활용해 세션 정보 가져오기](https://zhtmr.github.io/java/annotation/)
 - [[Java] 람다식을 사용하는 이유(lazy evaluation)](https://zhtmr.github.io/java/lambda/)
 - [[Java] BufferedInputStream / BufferedOutputStream](https://zhtmr.github.io/java/buffered-stream/)
 - [[Java] FileInputStream / FileOutputStream](https://zhtmr.github.io/java/file-io-stream/)
-- [[디자인패턴] 이터레이터 패턴(Iterator Pattern)](https://zhtmr.github.io/design%20pattern/iterator-pattern/)
 <!-- BLOGPOSTS:END -->
   ---
 
