@@ -1,6 +1,6 @@
 <div align="center">
   <!-- quotes-->
-    <a href="https://github.com/zhtmr"><img src="https://quotes-github-readme.vercel.app/api?theme=catppuccin_mocha" alt="Readme Quotes" /></a>
+<!--     <a href="https://github.com/zhtmr"><img src="https://quotes-github-readme.vercel.app/api?theme=catppuccin_mocha" alt="Readme Quotes" /></a> -->
 
   <!-- Hi there -->
   <a href="https://github.com/zhtmr"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%F0%9F%91%8B;Hi+there+%F0%9F%91%8B" alt="Typing SVG" /></a>
