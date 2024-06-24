@@ -7,7 +7,11 @@
 
   <!-- pet -->
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/lines/zhtmr?pet-id=1" width="1000" height="120"/>
+    <img src="https://render.gitanimals.org/lines/zhtmr?pet-id=1" width="400" height="200"/>
+  </a>
+
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/zhtmr"/>
   </a>
 
   <!-- hit, boj, blog badge -->
