@@ -49,7 +49,7 @@
 <details>
 <summary> WakaTime </summary>
 <div>
-<img src="https://github-readme-stats-mu-peach-88.vercel.app/api/wakatime?username=zhtmr&v=2"/>
+<img src="https://github-readme-stats-mu-peach-88.vercel.app/api/wakatime?username=zhtmr&v=3"/>
 </div>
 </details>
 
