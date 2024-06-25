@@ -45,12 +45,14 @@
 <!-- BLOGPOSTS:END -->
   ---
 
+<!--
 <details>
 <summary> WakaTime </summary>
 <div>
 <img src="https://github-readme-stats-mu-peach-88.vercel.app/api/wakatime?username=zhtmr"/>
 </div>
 </details>
+-->
 
 
 <table>
