@@ -29,7 +29,7 @@
 - Database
   - MySQL(MariaDB)
 - DevOps
-  - Docker, AWS, Github Actions
+  - Docker, AWS, NCP, Github Actions
 - Version Control
   - Git, SVN
 
