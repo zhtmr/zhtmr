@@ -51,17 +51,24 @@
 <table>
   <tr>
     <td valign="center">
-      <img src="https://github.com/zhtmr/zhtmr/assets/48509269/e15147e5-e830-45af-a345-cf6704d35afd">          <span>${\textsf{\color{gray}| 2024.06.12}}$ </span>
+      <img src="https://github.com/zhtmr/zhtmr/assets/48509269/e15147e5-e830-45af-a345-cf6704d35afd">    
     </td>
+     <td><span>${\textsf{\color{gray} 2024.06.12}}$ </span></td>
   </tr>
-   <tr>
+  <tr>
     <td valign="center">
-      <img src="https://github.com/zhtmr/zhtmr/assets/48509269/d136d3c5-ae4f-4c01-868b-5f7264959aa4">          <span>${\textsf{\color{gray}| 2024.06.05}}$ </span>
+      <img src="https://github.com/zhtmr/zhtmr/assets/48509269/d136d3c5-ae4f-4c01-868b-5f7264959aa4">          
+    </td>
+    <td>
+      <span>${\textsf{\color{gray} 2024.06.05}}$ </span>
     </td>
   </tr>
   <tr>
     <td valign="center">
-      <span>정보처리기사 ${\textsf{\color{gray}| 2023.06.12}}$ </span>
+      <span>정보처리기사</span>
+    </td>
+    <td>
+      ${\textsf{\color{gray} 2023.06.12}}$
     </td>
   </tr>
 </table>
