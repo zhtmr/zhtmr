@@ -1,3 +1,5 @@
+
+
 <div align="center">
   <!-- quotes-->
 <!--     <a href="https://github.com/zhtmr"><img src="https://quotes-github-readme.vercel.app/api?theme=catppuccin_mocha" alt="Readme Quotes" /></a> -->
@@ -43,7 +45,30 @@
 - [[Java] 어노테이션(annotation)을 활용해 세션 정보 가져오기](https://zhtmr.github.io/java/annotation/)
 - [[Java] 람다식을 사용하는 이유(lazy evaluation)](https://zhtmr.github.io/java/lambda/)
 <!-- BLOGPOSTS:END -->
+
+
+### Certifications
+<table>
+  <tr>
+    <td valign="center">
+      <img src="https://github.com/zhtmr/zhtmr/assets/48509269/e15147e5-e830-45af-a345-cf6704d35afd">          <span>${\textsf{\color{gray}| 2024.06.12}}$ </span>
+    </td>
+  </tr>
+   <tr>
+    <td valign="center">
+      <img src="https://github.com/zhtmr/zhtmr/assets/48509269/d136d3c5-ae4f-4c01-868b-5f7264959aa4">          <span>${\textsf{\color{gray}| 2024.06.05}}$ </span>
+    </td>
+  </tr>
+  <tr>
+    <td valign="center">
+      <span>정보처리기사 ${\textsf{\color{gray}| 2023.06.12}}$ </span>
+    </td>
+  </tr>
+</table>
+  
   ---
+
+
 
 
 <details>
