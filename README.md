@@ -92,7 +92,7 @@
   
   <tr>
     <td valign="center"><a href="https://github.com/zhtmr"><img align="top" src="https://github-readme-streak-stats-rho-ruddy.vercel.app?user=zhtmr&theme=bear&hide_border=true&locale=ko" alt="GitHub Streak" /></a></td>
-    <td valign="center"><a href="https://github.com/zhtmr"><img align="top" src="github-readme-stats-six-smoky-82.vercel.app/api?username=zhtmr&show_icons=true&theme=radical&/v=2"/></a></td>
+    <td valign="center"><a href="https://github.com/zhtmr"><img align="top" src="https://github-readme-stats-six-smoky-82.vercel.app/api?username=zhtmr&show_icons=true&theme=radical&/v=2"/></a></td>
   </tr>
 
 <!--
