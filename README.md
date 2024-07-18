@@ -81,7 +81,7 @@
 <details>
 <summary> WakaTime </summary>
 <div>
-<img src="https://github-readme-stats-mu-peach-88.vercel.app/api/wakatime?username=zhtmr&v=4"/>
+<img src="https://github-readme-stats-six-smoky-82.vercel.app/api/wakatime?username=zhtmr&v=4"/>
 </div>
 </details>
 
