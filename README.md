@@ -110,21 +110,3 @@
 
 
 
-
-
-
-
-
-
-<!-- 백준 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zhtmr)](https://solved.ac/zhtmr)
--->
-
-<!-- 
-### 💪 Skills 
-
-#### Platforms & Languages
-<img src="https://img.shields.io/badge/spring-#6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-
--->
-
