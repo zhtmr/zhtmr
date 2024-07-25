@@ -38,12 +38,12 @@
  
 ### Blog Posts  [![Blog post workflow](https://github.com/zhtmr/zhtmr/actions/workflows/blogposts.yml/badge.svg?branch=master)](https://github.com/zhtmr/zhtmr/actions/workflows/blogposts.yml)
 <!-- BLOGPOSTS:START -->
+- [[PS] 99클럽 코테 스터디 3일차 TIL + 문자열](https://zhtmr.github.io/ps/hanghae99-TIL-3/)
 - [[PS] 99클럽 코테 스터디 2일차 TIL + 배열](https://zhtmr.github.io/ps/hanghae99-TIL-2/)
 - [[PS] 99클럽 코테 스터디 1일차 TIL + 배열](https://zhtmr.github.io/ps/hanghae99-TIL-1/)
 - [[디자인패턴] 프로토타입 패턴(Prototype Pattern)](https://zhtmr.github.io/design%20pattern/prototype-pattern/)
 - [[디자인패턴] 어댑터 패턴(Adapter Pattern)](https://zhtmr.github.io/design%20pattern/adapter-pattern/)
 - [[Redis] 레디스 기본 개념, 자료형](https://zhtmr.github.io/redis/redis/)
-- [[Github Action] github CLI 로 github action 트리거 하기](https://zhtmr.github.io/github/github-action-cli/)
 <!-- BLOGPOSTS:END -->
 
 
