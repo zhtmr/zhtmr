@@ -38,12 +38,12 @@
  
 ### Blog Posts  [![Blog post workflow](https://github.com/zhtmr/zhtmr/actions/workflows/blogposts.yml/badge.svg?branch=master)](https://github.com/zhtmr/zhtmr/actions/workflows/blogposts.yml)
 <!-- BLOGPOSTS:START -->
+- [[PS] 99클럽 코테 스터디 20일차 TIL (큰 수 만들기)](https://zhtmr.github.io/ps/hanghae99-TIL-20/)
 - [[PS] 99클럽 코테 스터디 19일차 TIL (구명보트)](https://zhtmr.github.io/ps/hanghae99-TIL-19/)
 - [[PS] 99클럽 코테 스터디 18일차 TIL (단지번호붙이기)](https://zhtmr.github.io/ps/hanghae99-TIL-18/)
 - [[PS] 99클럽 코테 스터디 17일차 TIL (촌수계산)](https://zhtmr.github.io/ps/hanghae99-TIL-17/)
 - [[PS] 99클럽 코테 스터디 16일차 TIL (모음사전)](https://zhtmr.github.io/ps/hanghae99-TIL-16/)
 - [[PS] 99클럽 코테 스터디 15일차 TIL (Prefix and Suffix Search)](https://zhtmr.github.io/ps/hanghae99-TIL-15/)
-- [[PS] 99클럽 코테 스터디 14일차 TIL (숫자카드2)](https://zhtmr.github.io/ps/hanghae99-TIL-14/)
 <!-- BLOGPOSTS:END -->
 
 
