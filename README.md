@@ -38,12 +38,12 @@
  
 ### Blog Posts  [![Blog post workflow](https://github.com/zhtmr/zhtmr/actions/workflows/blogposts.yml/badge.svg?branch=master)](https://github.com/zhtmr/zhtmr/actions/workflows/blogposts.yml)
 <!-- BLOGPOSTS:START -->
+- [[PS] 99클럽 코테 스터디 40일차 TIL (Unique Paths)](https://zhtmr.github.io/ps/hanghae99-TIL-40/)
 - [[PS] 99클럽 코테 스터디 39일차 TIL (광물 캐기)](https://zhtmr.github.io/ps/hanghae99-TIL-39/)
 - [[PS] 99클럽 코테 스터디 38일차 TIL (디펜스 게임)](https://zhtmr.github.io/ps/hanghae99-TIL-38/)
 - [[PS] 99클럽 코테 스터디 37일차 TIL (부등호)](https://zhtmr.github.io/ps/hanghae99-TIL-37/)
 - [[PS] 99클럽 코테 스터디 36일차 TIL (전력망을 둘로 나누기)](https://zhtmr.github.io/ps/hanghae99-TIL-36/)
 - [[PS] 99클럽 코테 스터디 35일차 TIL (게임 맵 최단거리)](https://zhtmr.github.io/ps/hanghae99-TIL-35/)
-- [[PS] 99클럽 코테 스터디 34일차 TIL (타겟 넘버)](https://zhtmr.github.io/ps/hanghae99-TIL-34/)
 <!-- BLOGPOSTS:END -->
 
 
