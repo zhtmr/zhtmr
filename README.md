@@ -85,6 +85,40 @@
 </div>
 </details>
 
+<details>
+  <summary> PS </summary>
+  <div>
+    <table>
+  <tr>
+    <th colspan="2">백준</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://solved.ac/zhtmr"><img align="top" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zhtmr&theme=dark&cache=1"/></a></td>
+    <td valign="top"><img align="top" src="http://mazandi.herokuapp.com/api?handle=zhtmr&theme=?"/></td>
+  </tr>
+  
+</table>
+<table>
+  <tr>
+    <th colspan="2">프로그래머스</th>
+  </tr>
+  <tr>
+    <td valign="top"><img align="top" src="https://raw.githubusercontent.com/zhtmr/Programmers_Badge_Generator/main/result/result.svg?cache=1"/></td>
+    
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>leetCode</th>
+  </tr>
+  <tr>
+    <td valign="top"><img align="top" src="https://leetcard.jacoblin.cool/zhtmr?theme=unicorn&ext=activity"/></td>
+  </tr>
+</table>
+  </div>
+</details>
+
 
 <table>
   <!-- GitHub activity -->
