@@ -36,7 +36,7 @@
   - Git, SVN
 
  
-### Blog Posts  [![Blog post workflow](https://github.com/zhtmr/zhtmr/actions/workflows/blogposts.yml/badge.svg?branch=master)](https://github.com/zhtmr/zhtmr/actions/workflows/blogposts.yml)
+### Latest Blog Posts   [![Blog post workflow](https://github.com/zhtmr/zhtmr/actions/workflows/blogposts.yml/badge.svg?branch=master)](https://github.com/zhtmr/zhtmr/actions/workflows/blogposts.yml)
 <!-- BLOGPOSTS:START -->
 - [[PS] 99클럽 코테 스터디 42일차 TIL (First Day Where You Have Been in All the Rooms)](https://zhtmr.github.io/ps/hanghae99-TIL-42/)
 - [[PS] 99클럽 코테 스터디 41일차 TIL (Unique Paths2)](https://zhtmr.github.io/ps/hanghae99-TIL-41/)
