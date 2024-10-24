@@ -14,10 +14,11 @@
     <img src="https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white" alt="Blog" />
   </a>
 
- <!-- pet -->
+ <!-- pet 
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/zhtmr" width="400" height="200"/>
   </a>
+-->
 
 </div>
 
