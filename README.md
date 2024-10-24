@@ -27,7 +27,7 @@
 - Programming Language
   - Java, Javascript
 - Back-End
-  - Spring, Mybatis
+  - Spring, JPA, Mybatis
 - Database
   - MySQL(MariaDB)
 - DevOps
