@@ -39,7 +39,7 @@
  
 ### Latest Blog Posts   [![Blog post workflow](https://github.com/zhtmr/zhtmr/actions/workflows/blogposts.yml/badge.svg?branch=master)](https://github.com/zhtmr/zhtmr/actions/workflows/blogposts.yml)
 <!-- BLOGPOSTS:START -->
-- [[Github Action] 자동 PR 생성 및 병합](https://zhtmr.github.io/github%20action/pr-auto-create-github-action/)
+- [[Github Action] 자동 PR 생성 및 병합](https://zhtmr.github.io/github/pr-auto-create-github-action/)
 - [[JPA] 엔티티 클래스에 `@NoArgsConstructor(access = AccessLevel.PROTECTED)` 를 붙이는 이유](https://zhtmr.github.io/jpa/jpa-entity-access-level/)
 - [[AWS] Web Application with Serverless 실습](https://zhtmr.github.io/aws/aws-lambda-practice/)
 - [[PS] BOJ 19942 - 다이어트](https://zhtmr.github.io/ps/boj-19942-TIL/)
