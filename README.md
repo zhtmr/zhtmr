@@ -142,6 +142,7 @@
     </a></td>
   </tr>
 -->
+[![Git Ranker](https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjQ4NTA5MjY5)](https://www.git-ranker.com)
 </table>
 
 
